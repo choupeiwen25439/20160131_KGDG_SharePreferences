@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">phonebook</string>
+    <string name="input_name">輸入姓名</string>
+    <string name="input_phone">輸入電話</string>
+    <string name="btn_add">新增</string>
+    <string name="btn_read">查詢</string>
+    <string name="input_hint">你沒有輸入文字喔</string>
+    <string name="result_not_found">通訊錄找不到這筆資料</string>
+</resources>
